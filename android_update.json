@@ -1,0 +1,10 @@
+{
+    "version_name": "beta2.2.1",
+    "version_code": 31,
+    "update_url": "http://limuyang2.top:1234/tsdm_beta2.2.1_release.apk",
+    "update_msg": "紧急修复联网问题",
+    "isUpdate": true,
+    "md5":"",
+    "isMandatory":true,
+    "target_size":""
+}
